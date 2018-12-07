@@ -1,0 +1,26 @@
+﻿Buy 6362 THB
+PAY 9000 THB
+How much change we going to get it back and
+how many notes and coins we will get.
+
+- Available Bill Note (Assume that we have unlimited notes here)
+  - 1000
+  - 500
+  - 100
+  - 50
+  - 20
+  - 10
+  - 5
+  - 1
+
+
+Expected out put
+- 2638
+- 1000 x 2
+- 500 x 1
+- 100 x 1
+- 50 x 0
+- 20 x 1
+- 10 x 1
+- 5 x 1
+- 1 x 3
